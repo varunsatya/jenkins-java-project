@@ -16,11 +16,11 @@
         <form action="#">
             <div class="form-control">
                 <input type="text" required>
-                <label>Mobile number</label>
+                <label>Email</label>
             </div>
             <div class="form-control">
                 <input type="password" required>
-                <label>SECRET</label>
+                <label>Password</label>
             </div>
             <button type="submit">WELCOME TO NETFLIX 2.2.0</button>
             <div class="form-help"> 
